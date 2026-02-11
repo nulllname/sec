@@ -1,6 +1,6 @@
 #####功能持续完善更新中######
 # sec
-使用：python sec.py
+使用：python sec_v1.1.py
 密码：
 
 linux应急
